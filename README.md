@@ -1,4 +1,4 @@
-__**Hotel Management**__
+**Hotel Management**
 
 Introduction :
 
@@ -14,13 +14,9 @@ Client Management: Provides functionality to add new clients and store their inf
 
 Payment Processing: Supports different payment methods such as credit card and cash payments.
 
-Installation : 
+Installation : Clone the repository to your local machine:
 
-Clone the repository to your local machine:
-
-bash
-
-Copy code
+bash: Copy code
 
 git clone https://github.com/kamaLc73/Hotel_Management.git
 
@@ -36,14 +32,19 @@ Main Menu:
 
 After logging in, you'll be presented with the main menu where you can navigate to different functionalities such as adding reservations, managing rooms, and processing payments.
 
-Reservation Management: Add new reservations by specifying client details, reservation dates, and room preferences.
+Reservation Management: 
 
-Room Management: Search for available rooms based on criteria such as room type, number of beds, and amenities. Manage room availability and update room states accordingly.
+Add new reservations by specifying client details, reservation dates, and room preferences.
+
+Room Management:
+
+Search for available rooms based on criteria such as room type, number of beds, and amenities. Manage room availability and update room states accordingly.
 
 Payment Processing: Process payments using different methods such as credit card or cash.
 
 Contributors
 Dehbi Kamal (@kamaLc73)
-El Bahraoui Hassan  (@HAS1ELB)
+El Bahraoui Hassan (@HAS1ELB)
 El Bachar Walid
-Abdellah Ajkiou
+
+Ajkiou Abdellah
