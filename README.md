@@ -1,9 +1,11 @@
 Hotel Management 
 
-Introduction
+Introduction :
+
 The Hotel Management System is a Java application designed to assist hotel staff in managing reservations, rooms, and clients. It provides functionalities for adding reservations, managing room availability, processing payments, and more.
 
-Features
+Features : 
+
 Reservation Management: Allows staff to add new reservations, specify reservation dates, and select available rooms based on client preferences.
 
 Room Management: Enables staff to manage room availability, search for available rooms based on various criteria such as room type, number of beds, and amenities.
@@ -12,20 +14,27 @@ Client Management: Provides functionality to add new clients and store their inf
 
 Payment Processing: Supports different payment methods such as credit card and cash payments.
 
-Installation
+Installation : 
+
 Clone the repository to your local machine:
 
 bash
+
 Copy code
+
 git clone https://github.com/kamaLc73/Hotel_Management.git
+
 Open the project in your preferred Java IDE (Integrated Development Environment).
 
 Compile and run the main class (Main_Window.java or Login.java) to start the application.
 
-Usage
+Usage : 
+
 Login: Use the provided username and password to log in to the system. Default credentials may be provided or set up during installation.
 
-Main Menu: After logging in, you'll be presented with the main menu where you can navigate to different functionalities such as adding reservations, managing rooms, and processing payments.
+Main Menu: 
+
+After logging in, you'll be presented with the main menu where you can navigate to different functionalities such as adding reservations, managing rooms, and processing payments.
 
 Reservation Management: Add new reservations by specifying client details, reservation dates, and room preferences.
 
