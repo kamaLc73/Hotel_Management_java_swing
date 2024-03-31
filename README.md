@@ -1,4 +1,4 @@
-Hotel Management 
+**Hotel Management**
 
 Introduction :
 
