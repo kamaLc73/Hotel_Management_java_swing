@@ -21,9 +21,9 @@ To get started with the Hotel Management System, follow these steps:
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/kamaLc73/Hotel_Management.git
-Open the project in your preferred Java IDE (Integrated Development Environment).
+2. Open the project in your preferred Java IDE (Integrated Development Environment).
 
-Compile and run the main class (Main_Window.java or Login.java) to launch the application.
+3. Compile and run the main class (Main_Window.java or Login.java) to launch the application.
 
 ## Usage : 
 
