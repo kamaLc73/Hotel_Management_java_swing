@@ -1,6 +1,6 @@
 **Hotel Management**
 
-Introduction :
+Introduction : 
 
 The Hotel Management System is a Java application designed to assist hotel staff in managing reservations, rooms, and clients. It provides functionalities for adding reservations, managing room availability, processing payments, and more.
 
@@ -18,7 +18,7 @@ Installation : Clone the repository to your local machine:
 
 bash: Copy code
 
-git clone https://github.com/kamaLc73/Hotel_Management.git
+**git clone https://github.com/kamaLc73/Hotel_Management.git**
 
 Open the project in your preferred Java IDE (Integrated Development Environment).
 
@@ -27,6 +27,15 @@ Compile and run the main class (Main_Window.java or Login.java) to start the app
 Usage : 
 
 Login: Use the provided username and password to log in to the system. Default credentials may be provided or set up during installation.
+
+(username : kamal    || password : 0000
+
+username : walid    || password : 0000
+
+username : hassan   || password : 0000
+
+username : abdellah || password : 0000)
+
 
 Main Menu: 
 
@@ -43,8 +52,7 @@ Search for available rooms based on criteria such as room type, number of beds, 
 Payment Processing: Process payments using different methods such as credit card or cash.
 
 Contributors
-Dehbi Kamal (@kamaLc73)
+**Dehbi Kamal (@kamaLc73)
 El Bahraoui Hassan (@HAS1ELB)
 El Bachar Walid
-
-Ajkiou Abdellah
+Ajkiou Abdellah**
