@@ -25,26 +25,33 @@ Open the project in your preferred Java IDE (Integrated Development Environment)
 
 Compile and run the main class (Main_Window.java or Login.java) to launch the application.
 
-Usage
-Login
+## Usage : 
+
+- ### Login :
 Use the provided credentials to log in to the system:
 
-Username: kamal, walid, hassan, or abdellah
-Password: 0000
-Main Menu
+Username : kamal, walid, hassan, or abdellah
+
+Password : 0000
+
+- ### Main Menu :
 Upon logging in, access the main menu to navigate to different functionalities, such as reservation management, room management, and payment processing.
 
-Reservation Management
+- ### Reservation Management :
 Create new reservations by entering client details, specifying reservation dates, and selecting preferred rooms.
 
-Room Management
+- ### Room Management :
 Search for available rooms based on specific criteria like room type, bed count, and amenities. Manage room availability and update room statuses as needed.
 
-Payment Processing
+- ### Payment Processing :
 Process payments using various methods, including credit card or cash.
 
-Contributors
+# Contributors: 
+
 Dehbi Kamal (@kamaLc73)
+
 El Bahraoui Hassan (@HAS1ELB)
+
 El Bachar Walid
+
 Ajkiou Abdellah
