@@ -1,26 +1,39 @@
-***Hotel Management System***
-This repository contains Java code for a simple hotel management system. It includes classes for managing clients, reservations, and rooms, as well as saving client, reservation, and room information to text files.
-Classes
-Client: Represents a hotel client with attributes like last name, first name, age, address, contact, and ID number.
-Reservation: Manages reservations with details such as reservation number, client information, room number, date, duration, price, and payment method.
-Room: Defines room properties like number, type, state, bed count, price, and amenities (Wi-Fi, TV, AC).
-Saving Information
-SaveClient: Saves client information to "clientInfo.txt".
-SaveReservation: Writes reservation details to "ReservationInfo.txt".
-SaveRoomInfo: Handles saving room information to "infoRooms.txt".
-User Interface
-AddRoomWindow: GUI for adding a new room with fields for room number, bed count, price, type, and amenities.
-CreditCardPayment: Allows users to make credit card payments for reservations.
-LabeledTextField: Custom panel for labeled text fields used in various GUI components.
-Functionality
-ReservationDateWindow: Manages reservation dates and durations.
-SearchRoom: Searches for available rooms based on user criteria.
-RoomResultWindow: Displays available rooms matching specified criteria.
-File Structure
-Data_Base: Contains text files for storing client, reservation, and room information.
-tempInfoRooms.txt: Temporary file for room information updates.
-How to Use
-Clone the repository.
-Compile and run the Java files.
-Interact with the GUI components to manage clients, reservations, and rooms.
-Feel free to explore the code and enhance the hotel management system as needed.
+Hotel Management
+Introduction
+The Hotel Management System is a Java application designed to assist hotel staff in managing reservations, rooms, and clients. It provides functionalities for adding reservations, managing room availability, processing payments, and more.
+
+Features
+Reservation Management: Allows staff to add new reservations, specify reservation dates, and select available rooms based on client preferences.
+
+Room Management: Enables staff to manage room availability, search for available rooms based on various criteria such as room type, number of beds, and amenities.
+
+Client Management: Provides functionality to add new clients and store their information for future reference.
+
+Payment Processing: Supports different payment methods such as credit card and cash payments.
+
+Installation
+Clone the repository to your local machine:
+
+bash
+Copy code
+git clone https://github.com/kamaLc73/Hotel_Management.git
+Open the project in your preferred Java IDE (Integrated Development Environment).
+
+Compile and run the main class (Main_Window.java or Login.java) to start the application.
+
+Usage
+Login: Use the provided username and password to log in to the system. Default credentials may be provided or set up during installation.
+
+Main Menu: After logging in, you'll be presented with the main menu where you can navigate to different functionalities such as adding reservations, managing rooms, and processing payments.
+
+Reservation Management: Add new reservations by specifying client details, reservation dates, and room preferences.
+
+Room Management: Search for available rooms based on criteria such as room type, number of beds, and amenities. Manage room availability and update room states accordingly.
+
+Payment Processing: Process payments using different methods such as credit card or cash.
+
+Contributors
+Dehbi Kamal (@kamaLc73)
+El Bahraoui Hassan  (@HAS1ELB)
+El Bachar Walid
+Abdellah Ajkiou
