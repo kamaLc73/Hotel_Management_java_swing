@@ -48,10 +48,10 @@ Process payments using various methods, including credit card or cash.
 
 # Contributors: 
 
-Dehbi Kamal (@kamaLc73)
+- Dehbi Kamal (@kamaLc73)
 
-El Bahraoui Hassan (@HAS1ELB)
+- El Bahraoui Hassan (@HAS1ELB)
 
-El Bachar Walid
+- El Bachar Walid
 
-Ajkiou Abdellah
+- Ajkiou Abdellah
