@@ -1,0 +1,31 @@
+
+Reservation: 
+ Reservation Number = 1
+ Client = 
+	Last Name: dehbi
+	First Name: kamal
+	Age: 20
+	Address: rabat
+	Contact: 607136757
+	ID Number: aa118718
+ Room Number = 270
+ Date = 5/3/2025
+ Duration of Stay = 15
+ Price = 760.0 Dhs
+ Payment Method = Credit Card Payment
+=====================================================
+Reservation: 
+ Reservation Number = 2
+ Client = 
+	Last Name: elbahraoui
+	First Name: hassan
+	Age: 21
+	Address: sale
+	Contact: 706355896
+	ID Number: ae1523625
+ Room Number = 268
+ Date = 6/12/2025
+ Duration of Stay = 30
+ Price = 150.0 Dhs
+ Payment Method = Cash Payment
+=====================================================

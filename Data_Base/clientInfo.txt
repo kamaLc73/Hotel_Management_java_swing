@@ -1,0 +1,15 @@
+
+	Last Name: dehbi
+	First Name: kamal
+	Age: 20
+	Address: rabat
+	Contact: 607136757
+	ID Number: aa118718
+=====================================================
+	Last Name: elbahraoui
+	First Name: hassan
+	Age: 21
+	Address: sale
+	Contact: 706355896
+	ID Number: ae1523625
+=====================================================

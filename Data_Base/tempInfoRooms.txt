@@ -617,7 +617,7 @@ Single
 true
 true
 true
-available
+occupied
 ======================
 269
 Single
@@ -628,4 +628,12 @@ true
 true
 available
 ======================
-
+270
+Double
+4
+760.0
+false
+false
+true
+occupied
+======================
