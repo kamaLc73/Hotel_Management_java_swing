@@ -71,8 +71,8 @@ public class RoomResultWindow extends JFrame {
     }
 
     private void updateRoomState(String roomNumber) {
-        String originalFilePath = "Data_Base/infoRooms.txt";
-        String tempFilePath = "Data_Base/tempInfoRooms.txt";
+        String originalFilePath = "lib/Data_Base/infoRooms.txt";
+        String tempFilePath = "lib/Data_Base/tempInfoRooms.txt";
 
         File originalFile = new File(originalFilePath);
         File tempFile = new File(tempFilePath);
@@ -122,7 +122,7 @@ public class RoomResultWindow extends JFrame {
         StringBuilder result = new StringBuilder();
         boolean firstRoom = true;
 
-        try (BufferedReader br = new BufferedReader(new FileReader("Data_Base/infoRooms.txt"))) {
+        try (BufferedReader br = new BufferedReader(new FileReader("lib/Data_Base/infoRooms.txt"))) {
             String line;
             while ((line = br.readLine()) != null) {
                 if (line.matches("\\d+")) {
@@ -158,7 +158,7 @@ public class RoomResultWindow extends JFrame {
     }
 
     private String getPriceForRoom(String roomNumber) {
-        String filePath = "Data_Base/infoRooms.txt";
+        String filePath = "lib/Data_Base/infoRooms.txt";
 
         try (BufferedReader br = new BufferedReader(new FileReader(filePath))) {
             String line;

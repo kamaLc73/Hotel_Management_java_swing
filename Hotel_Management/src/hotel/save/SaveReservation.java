@@ -8,7 +8,7 @@ import hotel.models.Reservation;
 
 public class SaveReservation {
 	public SaveReservation(JFrame f, Reservation r) {
-		try (FileWriter reservationInfoWriter = new FileWriter("Data_Base/ReservationInfo.txt", true)) {
+		try (FileWriter reservationInfoWriter = new FileWriter("lib/Data_Base/ReservationInfo.txt", true)) {
             reservationInfoWriter.write(r.toString());
             reservationInfoWriter.write("\n=====================================================");
         } catch (IOException e) {

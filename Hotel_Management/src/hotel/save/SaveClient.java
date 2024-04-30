@@ -8,7 +8,7 @@ import hotel.models.Client;
 
 public class SaveClient {
 	public SaveClient(JFrame f, Client c) {
-		try (FileWriter clientInfoWriter = new FileWriter("Data_Base/clientInfo.txt", true);) {
+		try (FileWriter clientInfoWriter = new FileWriter("lib/Data_Base/clientInfo.txt", true);) {
         	clientInfoWriter.write(c.toString());
             clientInfoWriter.write("\n=====================================================");
             clientInfoWriter.close();
