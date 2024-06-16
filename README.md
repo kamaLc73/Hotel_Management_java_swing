@@ -48,9 +48,10 @@ Process payments using various methods, including credit card or cash.
 
 # Contributors: 
 
-- El Bahraoui Hassan ([@HAS1ELB](https://github.com/HAS1ELB))
-- Dehbi Kamal ([@kamaLc73](https://github.com/kamaLc73))
+-  [El Bahraoui Hassan](https://github.com/HAS1ELB)
 
-- El Bachar Walid ([@lidwaa](https://github.com/lidwaa))
+-  [Dehbi Kamal](https://github.com/kamaLc73)
 
-- Ajkiou Abdellah
+-  [El Bachar Walid](https://github.com/lidwaa)
+
+- [Ajkiou Abdellah](https://github.com/)
